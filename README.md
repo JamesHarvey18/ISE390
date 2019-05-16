@@ -1,3 +1,2 @@
 # ISE390
-
-Final Data Science homework assignment.
+This is my repo for all of my data science homework, projects, and quizzes.
